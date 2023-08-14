@@ -1,4 +1,4 @@
-![](./img/SavvyCoders-Logo-White.png)
+![](img/SavvyCoders-Logo-White.png)
 
 We endeavor to give back to our communities by increasing tech talent and expanding business opportunities. We designed a comprehensive curriculum that would allow our students to expand their professional horizons in 12-20 weeks.
 
