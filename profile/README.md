@@ -15,3 +15,10 @@ This intensive 12-week, virtual evening course focused primarily on learning eve
 Ready to enter the world of Cybersecurity? Learn all about it in just 20 weeks during our virutal, evening cours and be one step closer to a career in this exciting field. With trained and knowledgeable instructors, students will take classes at an accelerated pace so they can start their new careers after only 20 weeks!
 
 Find out more information [visit Savvy Coders](https://www.savvycoders.com)
+
+### Equal Opportunity is the Law
+
+![Equal Opportunity is the Law Poster](https://github.com/savvy-coders/.github/blob/main/profile/EO%20is%20the%20Law%20Poster%20-%20English.PNG)
+
+[Download Official PDF Version](./profile/EO%20is%20the%20Law%20Poster%20-%20English.pdf)
+
